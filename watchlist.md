@@ -68,7 +68,7 @@ A watchlist for exploring AI and related ideas such as robotics, simulated world
 - *The Age of A.I.* (2019) — A documentary series about applications of AI across different fields.
 - *The Future Of* (2022) — A documentary series about how technology could change everyday life.
 
-## Anime
+## Animes
 
 - *Ghost in the Shell* (1995) — A special operations unit investigates cybercrime in a connected society.
 - *Psycho-Pass* (2012–2019, TV seasons) — The Sibyl System assesses people’s likelihood of committing crimes.
