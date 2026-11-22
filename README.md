@@ -16,6 +16,6 @@ Pair *Coded Bias* with *Ex Machina* to compare how a documentary and a fictional
 
 Add the title and a link to the original source in the relevant file. A sentence about what you learned or why it’s worth reading makes a new article or resource easier to revisit.
 
-```markdown
+<!--
 - [Title](https://example.com) — Why it’s worth reading.
-```
+-->
