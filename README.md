@@ -8,7 +8,7 @@ Pair *Coded Bias* with *Ex Machina* to compare how a documentary and a fictional
 
 ## What’s inside
 
-- [Watchlist](watchlist.md) — Films, documentaries, series, and anime
+- [Watchlist](watchlist.md) — Films, documentaries, series, and animes
 - [Culture and heritage](culture-and-heritage.md) — Museum projects, art, heritage research, and cultural policy
 - [Public engagement checklist](public-engagement-checklist.md) — Questions for outreach, science communication, and cultural projects
 
